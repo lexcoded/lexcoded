@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Alexis, a software development student in Pittsburgh.
+
+I'm currently solidifying foundational skills and additional knowledge.✨
+
+I recently graduated from Uni in May 2026 with an associate's in Software Development. I plan to transfer and continue to a bachelor's next.
+
+
+
 <!--
 **lexcoded/lexcoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
