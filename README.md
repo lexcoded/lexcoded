@@ -1,11 +1,14 @@
-## Hi there 👋
+## Hi, I'm Alexis 👋
 
-I'm Alexis, a software development student in Pittsburgh.
+Software development graduate based in Pittsburgh, PA. I earned my associate's degree in Software Development from CCAC in May 2026, and I plan to continue toward a bachelor's degree.
 
-I'm currently solidifying foundational skills and additional knowledge.✨
+## What I work with
+-Languages: Java, JavaScript, C#, VB, SQL
+-Tools: Git, VS Code, Visual Studio Code, MySQL, Android Studio
 
-I recently graduated from Uni in May 2026 with an associate's in Software Development. I plan to transfer and continue to a bachelor's next.
-
+## Currently
+- Refreshing skills
+- learning html, css, JavaScript, Figma
 
 
 <!--
